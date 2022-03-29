@@ -1,0 +1,99 @@
+@font-face {
+    font-family:"Cablegram";
+    src: url("../Fonts/Cablegram.ttf");
+}
+
+
+.MainTitle{color:#bf9356d5;
+            font-family:sans-serif;
+            text-align: center;
+            font-size: 40px;
+           
+            padding-top: 10px;
+            padding-bottom: 5px;
+            
+}
+
+
+#particles-js {
+    background-color: #BF9456;
+    
+    width: 100%;
+    height: 70%;
+
+}
+
+
+.Ptles{height: 100%;
+        width: 100%;
+        overflow: hidden;
+        
+}
+
+.Formulaire{background-color: rgba(157, 157, 131, 0.177);
+            position: absolute;
+            left:14vw;
+            top:12vw;
+            width: 50%;
+            min-width: 1vw;
+            height: auto;
+            
+}
+
+.container-xl{position: absolute;
+    height: 100%px;
+    width: 100%;
+    
+}
+
+label{color:rgb(64, 64, 64);}
+input{width: 1vw;
+    
+
+}
+img{text-align:center;
+    
+   
+}
+
+#particles-js2 {
+    background-color: #161c6f;
+    
+    position: relative;
+    width: 100%;
+    height: 800px;
+    
+}
+
+
+.Tbox:hover { transform:scale(1.1);}
+
+
+#ownerPanel::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+    }
+.nav-link{font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold; }
+
+
+
+.btn-outline-primary:focus{outline: none;
+    box-shadow: none;}
+#btnlgt{
+    background-color:white;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+    vertical-align: middle;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold; 
+    border: none;
+    text-justify: auto;
+
+}
+
+#formlgt{
+    
+    padding-top: 7px;
+
+}
